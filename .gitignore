@@ -1,0 +1,4 @@
+# All Rust generated files
+**/target/
+**/debug/
+**/*.rs.bk
